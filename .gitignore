@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+
+# Local data & builds
+gynae.db
+*.sqlite*
+*.log
+
+# Environment / secrets
+.env
+.env.*
+
+# IDE
+.vscode/
+.DS_Store
